@@ -19,7 +19,7 @@
 	#::1             localhost
   
   7- write this at the end of the page...   127.0.0.1         Hospital.mvc  // and save
-  9- add your database at vendor\itrax\db-wrapper\src\dbwrapper.php
+  8- add your database at vendor\itrax\db-wrapper\src\dbwrapper.php
   
     
   
