@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f93535fe361e5b2b7815744ada80a685",
+    "packages": [
+        {
+            "name": "itrax/db-wrapper",
+            "version": "v1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devmohamedamr/itrax-db.git",
+                "reference": "2846c1983624df82fd7bd234929f7a569ae3559c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devmohamedamr/itrax-db/zipball/2846c1983624df82fd7bd234929f7a569ae3559c",
+                "reference": "2846c1983624df82fd7bd234929f7a569ae3559c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Itrax\\DbWrapper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "itrax group",
+                    "email": "dev.mohamedamr@gmail.com"
+                }
+            ],
+            "description": "php wrapper for mysql db",
+            "support": {
+                "issues": "https://github.com/devmohamedamr/itrax-db/issues",
+                "source": "https://github.com/devmohamedamr/itrax-db/tree/v1"
+            },
+            "time": "2021-10-27T19:59:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

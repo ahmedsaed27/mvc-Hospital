@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "itrax/db-wrapper",
+            "version": "v1",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devmohamedamr/itrax-db.git",
+                "reference": "2846c1983624df82fd7bd234929f7a569ae3559c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devmohamedamr/itrax-db/zipball/2846c1983624df82fd7bd234929f7a569ae3559c",
+                "reference": "2846c1983624df82fd7bd234929f7a569ae3559c",
+                "shasum": ""
+            },
+            "time": "2021-10-27T19:59:10+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Itrax\\DbWrapper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "itrax group",
+                    "email": "dev.mohamedamr@gmail.com"
+                }
+            ],
+            "description": "php wrapper for mysql db",
+            "support": {
+                "issues": "https://github.com/devmohamedamr/itrax-db/issues",
+                "source": "https://github.com/devmohamedamr/itrax-db/tree/v1"
+            },
+            "install-path": "../itrax/db-wrapper"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

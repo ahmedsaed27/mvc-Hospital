@@ -1,0 +1,19 @@
+{
+    "name": "as984/hospital",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "As984\\Hospital\\": "src/"
+        },
+        "files": ["src/core/helper.php"]
+    },
+    "authors": [
+        {
+            "name": "ahmedsaed"
+        }
+    ],
+    "require": {
+        "itrax/db-wrapper": "^1.0"
+    }
+}
