@@ -32,6 +32,8 @@ class login
            }elseif(!empty($user) && $user['role'] == 1){
             $_SESSION['admin'] = $user;
             \redirect('admin/index');
+           }else{
+            return \redirect('login/index');
            }
         }
     }
