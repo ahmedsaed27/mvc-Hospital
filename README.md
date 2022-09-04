@@ -22,6 +22,8 @@
   
   8- import the sql file into db
   
+  9- open http://hospital.mvc/   
+  
     
   
 
