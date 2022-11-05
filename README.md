@@ -5,8 +5,8 @@
 ### 2- open the Notepad as admin and open file D:\XAMPP\apache\conf\extra  // show all files 
 ### 3- open Vhosts.conf 
 ### 4- write this at the end of the page  
-####
-   <VirtualHost *:80>
+
+ ####  <VirtualHost *:80>
      DocumentRoot "D:/XAMPP/htdocs/Hospital/public"
      ServerName Hospital.mvc
  #### </VirtualHost>
