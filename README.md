@@ -6,10 +6,10 @@
 ### 3- open Vhosts.conf 
 ### 4- write this at the end of the page  
 
- ####  <VirtualHost *:80>
+  # <VirtualHost *:80>
      DocumentRoot "D:/XAMPP/htdocs/Hospital/public"
      ServerName Hospital.mvc
- #### </VirtualHost>
+  # </VirtualHost>
   
 ###  and save 
   
